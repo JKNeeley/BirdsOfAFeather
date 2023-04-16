@@ -8,3 +8,10 @@ The general premise is to create a goose. The user will cerate a goose that can 
 
 ## How to Play
 All instruction on gameplay are included in the descriptions at runtime.
+
+## Future Features
+- Different Geese: each type will subtly change the generic actions
+- Different Locations: move your goose between locations for storing and collecting items
+- New Items: items will be reflective of their location
+- NPC Geese: add interaction with pre-existing geese
+
