@@ -77,4 +77,5 @@ public class Space
         }
         setStuff(thingList);
     }
+    
 }
