@@ -26,4 +26,5 @@ public class FrogException extends Exception
         System.out.println("| ------------------------ Frog:  no stuff ------------------------ |");
         System.out.println("|                                                                   |");
     }
+    
 }
